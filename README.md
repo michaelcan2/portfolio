@@ -8,8 +8,9 @@
 Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon Web Services (AWS), Docker, Snowflake, SQL, NLP, Databricks, Rest APIs, Github, Azure Cognitive Search, NoSQL
 
 # Professional Experience
-## PricewaterhouseCoopers (PwC)                                           December 2022 -  March 2024
-## Associate Data Engineer  / Data Scientist (Full Time)                                 New York, NY
+## PricewaterhouseCoopers (PwC)                                           
+## December 2022 -  March 2024
+## Data Engineer                                                                                        New York, NY
 
 ### AI Factory Gen AI Functional Specification Documents (FSD) to SQL conversion – Data Engineer 
 - Developed a pipeline using Apache Spark Databricks notebooks in Python that takes Functional Specification Documents (FSD) as input and generates a usable SQL query using OpenAI API.
