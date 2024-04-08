@@ -1,25 +1,28 @@
 # Data Engineer
-www.linkedin.com/in/michaelcan2/
-                            Long Island City, New York | michaelanthonycan2@gmail.com | (773) 951-8669  
+
+#### www.linkedin.com/in/michaelcan2/
+#### Long Island City, New York | michaelanthonycan2@gmail.com | (773) 951-8669  
+
+
 ## Skills
 Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon Web Services (AWS), Docker, Snowflake, SQL, NLP, Databricks, Rest APIs, Github, Azure Cognitive Search, NoSQL
 
-##Professional Experience
+## Professional Experience
 **PricewaterhouseCoopers (PwC)                                           December 2022 -  March 2024**
 **Associate Data Engineer  / Data Scientist (Full Time)                                 New York, NY**
 
-#AI Factory Gen AI Functional Specification Documents (FSD) to SQL conversion – Data Engineer
+# AI Factory Gen AI Functional Specification Documents (FSD) to SQL conversion – Data Engineer
 - Developed a pipeline using Apache Spark Databricks notebooks in Python that takes Functional Specification Documents (FSD) as input and generates a usable SQL query using OpenAI API.
 -	Used Azure Cognitive Services (ACS) to store preexisting Functional Specification Documents (FSDs), enabling the retrieval of their corresponding SQL queries. These SQL queries were then utilized as input for the LLM, which generated additional SQL based on the given input.
 -	Pipeline reduces development time by ~6 hours, automating the extraction and insertion of information from FSD documents into SQL according to sponsors.
 
-#Test case Generation – Gen AI Developer / Data Engineer
+# Test case Generation – Gen AI Developer / Data Engineer
 -	Crafted a comprehensive technical architecture illustrating each facet of the pipeline and its operational workflow.
 -	Established Retrieval Augmented Generation (RAG) infrastructure integrated with Azure Cognitive Search (ACS) to serve as a robust knowledge base, ensuring the availability of high-quality test cases for reference when generating new test cases for upcoming FSDs.
 -	Employed chunking and embedding methodologies to segment multiple test cases in Excel, facilitating their integration through a standardized ADA-embedding model prior to populating them into the ACS index.
 -	Managed the Test Case Generation Pod during Agile sprints with Azure Dev Ops (ADO) by establishing features, user stories, and assigning tasks.
 
-#Gen AI Procurement Chatbot MVP – Gen AI Developer / Data Engineer
+# Gen AI Procurement Chatbot MVP – Gen AI Developer / Data Engineer
 -	Implemented a Procurement MVP chatbot utilizing Langchain library with the GPT-4 LLM Model.
 -	Deployed Minimum Viable Product (MVP) as a secure Webapp through Docker.
 -	MVP saves ~8 hours of time eliminating procurement team need to invest in incomplete requests.
