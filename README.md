@@ -29,7 +29,7 @@ Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon
 -	Prompt engineered MVP tool to educate users on all the necessary information before they can send requests, based on client feedback, to guide users in creating requests.
 
 
-## Data Engineer @ Sagence Consulting  (March 2020 - December 2022) New York, NY
+## Data Engineer @ Sagence Consulting  (March 2020 - November 2022) New York, NY
 
 ### Large Academic Institution – AWS Snowflake Architecture
 -	Built a reusable code accelerator pipeline for the firm for ingestion of the client’s data from the Client Relationship Management (CRM) Salesforce organization into Snowflake database utilizing AWS services such as API Gateway, EventBridge, Lambda, S3 through CloudFormation.
