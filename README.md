@@ -1,5 +1,5 @@
 # Data Engineer
-![Michael] (/assets/Michael.jpg)
+![Michael](/assets/img/Michael.jpg)
 
 
 Work Experience 
