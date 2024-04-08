@@ -3,6 +3,8 @@
 #### www.linkedin.com/in/michaelcan2/
 #### Long Island City, New York | michaelanthonycan2@gmail.com | (773) 951-8669  
 
+I am a Data Developer specializing in data engineering, data science, and generative AI development. I hold a Masters in Artificial Intelligence from Northwestern University and have 4 years of experience in the consulting industry. Additionally, I hold certifications as a Microsoft Certified: Azure AI Fundamentals and Azure Data Fundamentals specialist.
+
 
 ## Skills
 Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon Web Services (AWS), Docker, Snowflake, SQL, NLP, Databricks, Rest APIs, Github, Azure Cognitive Search, NoSQL
