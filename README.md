@@ -11,7 +11,16 @@ I am a Data Developer specializing in data engineering, data science, and genera
 Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon Web Services (AWS), Docker, Snowflake, SQL, NLP, Databricks, Rest APIs, Github, Azure Cognitive Search, NoSQL
 
 # Professional Experience
-## Data Engineer @ PricewaterhouseCoopers (PwC) (December 2022 -  March 2024)  New York, NY                                                                                          
+## Data Engineer @ PricewaterhouseCoopers (PwC) (December 2022 -  March 2024)  New York, NY     
+
+
+### Leading Legal Insurance Company – Azure Services NLP Machine Learning Unitization and Metadata Extraction pipeline
+-	Engineered a reusable code accelerator for an NLP pipeline, transforming OCR data into structured output integrating different off-the-shelf components for each processing step through the Azure cloud services platform.
+-	Built multiple Azure Functions (equivalent to AWS Lambda) to transfer client documents through an Azure Service Bus messaging queue pipeline, facilitating multiple transformations from PDFs to text to JSON document models containing metadata extracted from the specific documents.
+-	Established the Microsoft Azure Cognitive Search service, fully implementing it with unitized documents and extracted data. This allows desired metadata to be immediately accessible through search/filter queries.
+-	Led Agile sprints to achieve agreed-upon objectives, coordinating and executing corrective actions to address gaps with the client.
+-	Developed a text classification algorithm using the spacy Python library to automatically detect entities and key topics within unstructured financial text data and performed further NLP text analysis. Created a Python script for converting OCR documents into text.
+
 ### AI Factory Gen AI Functional Specification Documents (FSD) to SQL conversion – Data Engineer 
 - Developed a pipeline using Apache Spark Databricks notebooks in Python that takes Functional Specification Documents (FSD) as input and generates a usable SQL query using OpenAI API.
 -	Used Azure Cognitive Services (ACS) to store preexisting Functional Specification Documents (FSDs), enabling the retrieval of their corresponding SQL queries. These SQL queries were then utilized as input for the LLM, which generated additional SQL based on the given input.
@@ -36,13 +45,6 @@ Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon
 -	Built a reusable code accelerator pipeline for the firm for ingestion of the client’s data from the Client Relationship Management (CRM) Salesforce organization into Snowflake database utilizing AWS services such as API Gateway, EventBridge, Lambda, S3 through CloudFormation.
 -	Stood up API Gateway to receive data from CRM; launched an EventBridge to create a validator for the data, ensuring it meets the database’s table structure when updates occur; implemented a Lambda function that filters the JSON data received from EventBridge to specific data points the client defined as resourceful and placed them into S3.
 -	Instructed the Snowflake database to use Snowpipe for ingesting preprocessed data into the expected table within Snowflake once S3 was populated with new data.
-
-### Leading Legal Insurance Company – Azure Services NLP Machine Learning Unitization and Metadata Extraction pipeline
--	Engineered a reusable code accelerator for an NLP pipeline, transforming OCR data into structured output integrating different off-the-shelf components for each processing step through the Azure cloud services platform.
--	Built multiple Azure Functions (equivalent to AWS Lambda) to transfer client documents through an Azure Service Bus messaging queue pipeline, facilitating multiple transformations from PDFs to text to JSON document models containing metadata extracted from the specific documents.
--	Established the Microsoft Azure Cognitive Search service, fully implementing it with unitized documents and extracted data. This allows desired metadata to be immediately accessible through search/filter queries.
--	Led Agile sprints to achieve agreed-upon objectives, coordinating and executing corrective actions to address gaps with the client.
--	Developed a text classification algorithm using the spacy Python library to automatically detect entities and key topics within unstructured financial text data and performed further NLP text analysis. Created a Python script for converting OCR documents into text.
 
 ### Large Financial Holding Company – Enterprise Data Architecture
 -	Constructed requests to an outdoor vendor API through Apache Databricks, and scheduled jobs to establish a Data Ingestion pipeline for incoming data in a distributed system.
