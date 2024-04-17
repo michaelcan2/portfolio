@@ -26,7 +26,7 @@ Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon
 -	Used Azure Cognitive Services (ACS) to store preexisting Functional Specification Documents (FSDs), enabling the retrieval of their corresponding SQL queries. These SQL queries were then utilized as input for the LLM, which generated additional SQL based on the given input.
 -	Pipeline reduces development time by ~6 hours, automating the extraction and insertion of information from FSD documents into SQL according to sponsors.
 
-### Test case Generation – Gen AI Developer / Data Engineer
+### Test Case Generation – Gen AI Developer / Data Engineer
 -	Crafted a comprehensive technical architecture illustrating each facet of the pipeline and its operational workflow.
 -	Established Retrieval Augmented Generation (RAG) infrastructure integrated with Azure Cognitive Search (ACS) to serve as a robust knowledge base, ensuring the availability of high-quality test cases for reference when generating new test cases for upcoming FSDs.
 -	Employed chunking and embedding methodologies to segment multiple test cases in Excel, facilitating their integration through a standardized ADA-embedding model prior to populating them into the ACS index.
