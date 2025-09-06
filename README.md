@@ -4,14 +4,29 @@
 #### Long Island City, New York | michaelanthonycan2@gmail.com | (773) 951-8669  
 
 
-I am a Data Developer specializing in data engineering, data science, and generative AI development. I hold a Masters in Artificial Intelligence from Northwestern University and have 4 years of experience in the consulting industry. Additionally, I hold certifications as a Microsoft Certified: Azure AI Fundamentals and Azure Data Fundamentals specialist.
+I am a Backend Engineer specializing in AI agent orchestration, generative AI, and data engineering. At Annalect (Omnicom Media Group), I design and deploy LangChain-based multi-agent systems, FastAPI microservices, and MCP server infrastructure serving 6,000+ users. My work has delivered measurable impact, including reducing Google Ads campaign time-to-market by 50%, increasing click-through rates by 25%, and improving campaign brief completion through guided AI workflows. I hold an M.S. in Artificial Intelligence from Northwestern University and certifications in Azure AI and Data Fundamentals.
 
 
 ## Skills
-Python, Langchain, OpenAI, Microsoft Azure Services, Azure Dev Ops (ADO), Amazon Web Services (AWS), Docker, Snowflake, SQL, NLP, Databricks, Rest APIs, Github, Azure Cognitive Search, NoSQL
+- Languages & Frameworks: Python, SQL, FastAPI, REST APIs, LangChain
+- AI Platforms & Tools: OpenAI, LLMs, RAG, MCP Servers, NLP
+- DevOps & Tools: Docker, Streamlit
+- Cloud: Azure (Functions, Blob, Cognitive Search, DevOps), AWS (Lambda, EventBridge, API Gateway, S3), Databricks
+
 
 # Professional Experience
-## Data Engineer @ PricewaterhouseCoopers (PwC) (December 2022 -  March 2024)  New York, NY     
+## Backend Engineer (AI / Prompt Engineer)  Annalect – Omnicom Media Group (July 2024 -  Present)  New York, NY 
+
+### AI Agent Orchestration & Marketing Optimization – LLM Routing, FastAPI Microservices, and MCP Server Deployments
+
+-   Developed a LangChain-based orchestrator that dispatches user prompts to modular sub-agents (Web Search, File Retrieval) each connected to specialized MCP tools through a multi-server client for seamless, environment-aware execution to serve over 6,000 users.
+-   Led development of a Next-Gen Search AI Agent  (FastAPI microservice) for Google Ads keyword optimization; Adopted by 50+ client accounts, improving time-to-market by 50% and click-through rate by 25% while staying resource-efficient.
+-   Created Campaign Assist, a Python (FastAPI) multi-agent flow that guides users step-by-step through campaign inputs (e.g. brand, objectives, budget, SEO) increasing briefs completion rates. 
+-   Designed and deployed multiple MCP servers with specialized toolsets; Enabled dynamic tool selection and response generation based on user input via LLM-driven routing.
+-    Shipped Streamlit data-collection apps to capture and evaluate agent responses, enabling non-technical users to configure uploads and visualize metrics; cut setup time from hours to minutes.
+
+
+## Data Engineer @ PricewaterhouseCoopers (PwC) (December 2022 - March 2024) New York, NY
 
 
 ### Leading Legal Insurance Company – Azure Services NLP Machine Learning Unitization and Metadata Extraction pipeline
