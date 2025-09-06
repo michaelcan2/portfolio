@@ -1,4 +1,4 @@
-# Data Engineer
+# AI Backend Engineer | Generative AI & Multi-Agent Systems
 
 #### www.linkedin.com/in/michaelcan2/
 #### Long Island City, New York | michaelanthonycan2@gmail.com | (773) 951-8669  
